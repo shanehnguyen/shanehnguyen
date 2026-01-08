@@ -1,16 +1,22 @@
-## Hi there 👋
+## Welcome 👋
 
-<!--
-**shanehnguyen/shanehnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you’re new here, start with these:
 
-Here are some ideas to get you started:
+### 🧠 CPU
+➡️ **Pipelined RISC CPU (Verilog)**
+- 5-stage pipeline  
+- Data forwarding, load-use stalling, branch flush  
+- Built + debugged at the cycle level  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Cache
+➡️ **MESI Cache Coherence Simulator**
+- Multi-core, bus-based coherence
+- Handles races, invalidations, writebacks
+- Stress-tested beyond “happy path” cases
+
+---
+
+I work mostly on **computer architecture, embedded systems, and hardware-adjacent software**.  
+I care about performance, correctness, and understanding things *below* the abstraction.
+
+If it touches cycles, memory, or electrons — I’m probably interested.
